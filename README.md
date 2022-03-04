@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @webpressarchitect
 - 👀 I’m interested in full stack development
-- 🌱 I’m currently learning Puthon
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on any projects
 - 📫 How to reach me code@webpressarchitect.com
 
